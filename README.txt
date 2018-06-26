@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%% | RAFTS3groups - Rapid Alignment Free Tool for Sequences Similarity Search to Groups| %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% | RAFTS³G- Rapid Alignment Free Tool for Sequences Similarity Search to Groups| %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   clustering algoritm to create homology clusters based on RAFTS3 (VIALLE, R. A.) 
 %   More informations about RAFTS3 in: https://sourceforge.net/projects/rafts3/
@@ -25,9 +25,9 @@
 %   Fabio O. Pedrosa (fpedrosa@ufpr.br)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-rafts3g.exe - version 2.0 compilated by MATLAB version R2012b (v8.0.0) 
+rafts3g.exe - version 2.0 compilated by MATLAB version R2017a (v9.2) 
 
-Command line (by terminal) = rafts3g file, nself, varargin
+Command line (by terminal) = rafts3g file nself varargin "C:\MCR_v9.2_dir"
 
 
 Variables:
@@ -43,4 +43,4 @@ path\RAFTS3Clusters\Cluster_n.fasta (each cluster separated in format FASTA)
 path\rafts3gresult.mat ( MATLAB matrix with parameters configurations)
 
 %IMPORTANT:
-The executable depends the MatLab Compiler Runtime (MCR) version 8.0.0 (built MATLAB vers. 2012b).
+The executable depends the MatLab Compiler Runtime (MCR) version 9.2 (built MATLAB vers. 2017a).
