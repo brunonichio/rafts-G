@@ -44,4 +44,4 @@ path\RAFTS3Clusters\Cluster_n.fasta (each cluster separated in format FASTA)
 path\rafts3gresult.mat ( MATLAB matrix with parameters configurations)
 
 %IMPORTANT:
-The executable depends the MatLab Compiler Runtime (MCR) version 7.17 (built MATLAB vers. 2012b).
+The executable depends the MatLab Compiler Runtime (MCR) version 8.0.0 (built MATLAB vers. 2012b).
