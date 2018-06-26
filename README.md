@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%% | RAFTS3groups - Rapid Alignment Free Tool for Sequences Similarity Search to Groups| %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% | RAFTS³G - Rapid Alignment Free Tool for Sequences Similarity Search to Groups| %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   clustering algoritm to create homolog clusters based on RAFTS3 (VIALLE, R. A.) 
 %   More informations about RAFTS3 in: https://sourceforge.net/projects/rafts3/
@@ -28,7 +28,7 @@
 
 rafts3g.exe - version 2.0 compilated by MATLAB version R2012b (v8.0.0) 
 
-Command line (by terminal) = rafts3g file, nself, varargin
+Command line (by terminal) = rafts3g file nself varargin "C:\MCR directory"
 
 
 Variables:
