@@ -1,34 +1,34 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%% | RAFTS³G - Rapid Alignment Free Tool for Sequences Similarity Search to Groups| %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   clustering algoritm to create homolog clusters based on RAFTS3 (VIALLE, R. A.) 
-%   More informations about RAFTS3 in: https://sourceforge.net/projects/rafts3/
-%   copyright (c) 2018  Federal University of Parana
-%   Setor de Educação Profissional e Tecnológica da UFPR - Laboratório de Bioinformática 
-%   Pós-graduação em Bioinformática
-%   Universidade Federal do Paraná - UFPR
-%   Rua Dr. Alcides Vieira Arco-verde, 1225 
-%   CEP: 81520-260 Jardim das Américas
-%   Curitiba – PR  
-%   Brasil
-%   
-%   Developers and colaborations team:
-%   Roberto T. Raittz (raittz@gmail.com)
-%   Bruno T. L. Nichio (brnichio@gmail.com)
-%   Ricardo A. Vialle (ricardovialle@gmail.com)
-%   Jeroniza N. Marchaukoski (jeroniza@ufpr.br)
-%   Nilson A. R. Coimbra (nilson.coimbra@gmail.com)
-%   Alexandre Q. Lejambre (lejambre@gmail.com)
-%   Aryel Marlus Repula de Oliveira (aryelmarlus@gmail.com)
-%   Camilla R. Pierri (camilla_kaori@hotmail.com)
-%   Leticia G. C. Santos (grazielalcs@gmail.com)
-%   Fabio O. Pedrosa (fpedrosa@ufpr.br)
+
+| RAFTS³G - Rapid Alignment Free Tool for Sequences Similarity Search to Groups| 
+
+ clustering algoritm to create homolog clusters based on RAFTS3 (VIALLE, R. A.)
+ More informations about RAFTS3 in: https://sourceforge.net/projects/rafts3/
+ copyright (c) 2018  Federal University of Parana
+ Setor de Educação Profissional e Tecnológica da UFPR - Laboratório de Bioinformática 
+ Pós-graduação em Bioinformática
+ Universidade Federal do Paraná - UFPR
+ Rua Dr. Alcides Vieira Arco-verde, 1225 
+ CEP: 81520-260 Jardim das Américas
+ Curitiba – PR  
+ Brasil
+
+Developers and colaboration team:
+Roberto T. Raittz (raittz@gmail.com)
+Bruno T. L. Nichio (brnichio@gmail.com)
+Ricardo A. Vialle (ricardovialle@gmail.com)
+Jeroniza N. Marchaukoski (jeroniza@ufpr.br)
+Alexandre Q. Lejambre (lejambre@gmail.com)
+Aryel Marlus Repula de Oliveira (aryelmarlus@gmail.com)
+Camilla R. Pierri (camilla_kaori@hotmail.com)
+Leticia G. C. Santos (grazielalcs@gmail.com)
+Nilson A. R. Coimbra (nilson.coimbra@gmail.com)
+Fabio O. Pedrosa (fpedrosa@ufpr.br)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-rafts3g.exe - version 2.0 compilated by MATLAB version R2017a (v9.2) 
+RAFTS3G.exe - version 2.0 compilated by MATLAB version R2017a (v9.2) 
 
-Command line (by terminal) = rafts3g file nself varargin "C:\MCR directory"
+Command line (by terminal) = RAFTS3G.exe file nself varargin "C:\MCR directory"
 
 
 Variables:
