@@ -4,12 +4,12 @@
 %   clustering algoritm to create homology clusters based on RAFTS3 (VIALLE, R. A.) 
 %   More informations about RAFTS3 in: https://sourceforge.net/projects/rafts3/
 %   copyright (c) 2018  Federal University of Parana
-%   Setor de EducaÁ„o Profissional e TecnolÛgica da UFPR - LaboratÛrio de Bioinform·tica 
-%   PÛs-graduaÁ„o em Bioinform·tica
-%   Universidade Federal do Paran· - UFPR
+%   Setor de Educa√ß√£o Profissional e Tecnol√≥gica da UFPR - Laborat√≥rio de Bioinform√°tica 
+%   P√≥s-gradua√ß√£o em Bioinform√°tica
+%   Universidade Federal do Paran√° - UFPR
 %   Rua Dr. Alcides Vieira Arco-verde, 1225 
-%   CEP: 81520-260 Jardim das AmÈricas
-%   Curitiba ñ PR  
+%   CEP: 81520-260 Jardim das Am√©ricas
+%   Curitiba ‚Äì PR  
 %   Brasil
 %   
 %   Developers and colaborations team:
@@ -43,4 +43,4 @@ path\RAFTS3Clusters\Cluster_n.fasta (each cluster separated in format FASTA)
 path\rafts3gresult.mat ( MATLAB matrix with parameters configurations)
 
 %IMPORTANT:
-The executable depends the MatLab Compiler Runtime (MCR) version 7.17 (built MATLAB vers. 2012b).
+The executable depends the MatLab Compiler Runtime (MCR) version 8.0.0 (built MATLAB vers. 2012b).
